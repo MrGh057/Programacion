@@ -1,0 +1,38 @@
+# PYTHON
+Para empezar a aprender este lenguaje lo indispensable es hacernos una de las 
+preguntas más importantes ¿qué es python?. Bueno, python es un lenguaje de 
+programación de tipo scripting, ¿qué significa esto? pues a diferencia de 
+otros lenguajes como C, C++, Java, VisualBasic, etc. no necesita de un 
+compilador para poder ser ejecutado, simplemente se necesita de la instalación
+de su interprete de comandos, similar a lo que vendría siendo JavaScript, en
+donde su interprete viene instalado por defecto en algunos de los navegadore 
+en el caso de python es necesario instalarlo con nuestro equipo.
+
+¿Porqué debería aprender python? 
+Bien, en el mundo de la programación existen miles de lenguajes de programación,
+unos hechos para cosas muy distintas de otros y utilizados para distintas cosas y
+ambitos, como deberías saber la programación se utiliza para la solución de un 
+problema planteado entonces el problema al que vas a atacar puede abarcar distintas 
+áreas, puede ser una aplicacion web, una apliación de escritorio, un programa de 
+administración de alguna base de datos, etc. bueno para cada uno de los casos anteriores
+python se puede hacer cargo de todos y cada uno de ellos utilizando para cada caso
+una librería diferente, pero esto de las librerías lo aprenderás más adelante.
+
+¿en qué se usa python?
+Python es utilizado en una gran cantidad de cosas, su nivel de aplicacion es bastante
+amplia, por ejemplo, es utilizado en la ciberseguridad para el análisis de páginas web,
+con su método requests lo hace en un gran aliado a la hora de hacer pentesting. Desde 
+python con una librería llamada Openpyxl nos permite la interacción y manipulación
+de libros de Excel, con OS nos da la libertad de manejar el sistema operativo desde 
+python, y un sin fin de aplicacion más, te invito a informarte para que te sientas 
+motivado a aprender este hermoso lenguaje.
+
+¿Es difícil de aprender?
+Python cuenta con una sintaxis bastante simple de entender y es muy amigable a la hora
+de leerlo, pues no es un lenguaje tan estricto como lo podría ser C.
+Realmente esta pregunta es un poco ambigua, pues depende mucho de la cantidad de 
+práctica que tengas con la programación, pues varios conceptos se relacionan con 
+conceptos de otros lenguajes de programación, como viene siendo los ciclos, las interaciones,
+los métodos, variables, tipos de datos, etc. que no te preocupes, todo eso se aprenderá en
+más adelante, a mi parecer python me parece una buena opción para aprender, es bastante
+sencillo y además es muy capaz y poderoso, considero que no le debe nada a los demás lenguajes.
